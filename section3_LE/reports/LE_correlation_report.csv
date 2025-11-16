@@ -1,0 +1,2 @@
+city,state,base_life_expectancy,environmental_stress(%),health_risk_factor(%),predicted_LE_change(%),predicted_LE(years)
+lucknow,Uttar Pradesh,66.5,32.5,30.0,15.6,56.1

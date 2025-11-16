@@ -1,0 +1,26 @@
+{
+  "heart_rate": {
+    "unit": "bpm",
+    "healthy_min": 60,
+    "healthy_max": 100,
+    "description": "Normal resting heart rate for adults."
+  },
+  "blood_pressure_systolic": {
+    "unit": "mmHg",
+    "healthy_min": 90,
+    "healthy_max": 120,
+    "description": "Normal systolic pressure (upper number)."
+  },
+  "blood_pressure_diastolic": {
+    "unit": "mmHg",
+    "healthy_min": 60,
+    "healthy_max": 80,
+    "description": "Normal diastolic pressure (lower number)."
+  },
+  "oxygen_level": {
+    "unit": "%",
+    "healthy_min": 95,
+    "healthy_max": 100,
+    "description": "Normal blood oxygen saturation (SpO₂)."
+  }
+}
